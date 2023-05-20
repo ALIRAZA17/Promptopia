@@ -1,0 +1,7 @@
+build:
+  functions:
+    - app/api
+
+functions:
+  - app\api\auth\[...nextauth]
+
