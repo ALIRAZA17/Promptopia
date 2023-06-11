@@ -37,3 +37,11 @@ Promptopia is an innovative Next.js application designed to empower users to sha
 - **Seamless Next.js Experience**: Promptopia leverages the power of Next.js, a popular React framework, to deliver a seamless and responsive web application. The application provides a smooth browsing experience, with fast page transitions and server-side rendering capabilities.
 
 - **Search and Discovery**: With an intuitive search functionality, users can easily explore the vast collection of prompts shared on Promptopia. They can discover prompts based on specific categories, tags, or keywords, enabling them to find prompts that align with their interests or needs.
+
+- **Upvoting and Ranking**: Promptopia incorporates a voting system that allows users to upvote the prompts they find most valuable or intriguing. The prompts with the highest number of upvotes are prominently featured, enabling users to easily identify the most popular and influential prompts.
+
+- **Notifications and Personalization**: Promptopia offers personalized notifications, keeping users informed about the latest discussions and updates related to the prompts they follow or engage with. This feature enhances user engagement and fosters an active and dynamic community.
+
+- **Mobile-Friendly Design**: Recognizing the importance of mobile accessibility, Promptopia ensures a responsive and mobile-friendly design. Users can easily access and interact with the application on their smartphones or tablets, enabling them to stay connected and engaged while on the go.
+
+Promptopia aims to democratize access to valuable ChatGPT prompts by providing a platform for users to contribute, explore, and discuss prompts that have the potential to inspire, educate, and spark creativity. Join Promptopia today and become a part of a vibrant community dedicated to empowering and uplifting one another through the power of shared knowledge and ideas.
